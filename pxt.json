@@ -1,5 +1,5 @@
 {
-    "name": "trests",
+    "name": "kodoCar",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -9,7 +9,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "kodoCar.ts"
     ],
     "testFiles": [
         "test.ts"
